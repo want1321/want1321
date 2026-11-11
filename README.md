@@ -11,6 +11,9 @@ I write about making content with AI, content automation and building a personal
 
 - [How to edit Instagram Reels automatically with Claude](https://grigorets.com/studio/guide)
 - [Claude Code skills that edit video: seven options compared](https://grigorets.com/studio/guides/claude-code-video-editing-skills)
+- [Best AI video editors for talking-head Reels (2026)](https://grigorets.com/studio/guides/ai-video-editor-talking-head-reels)
+- [CapCut alternatives that edit Reels automatically (2026)](https://grigorets.com/studio/guides/capcut-alternative-automatic-reels)
+- [A ChatGPT or Claude workflow to auto-edit talking-head videos](https://grigorets.com/studio/guides/ai-workflow-talking-head-videos)
 
 ## Elsewhere
 
